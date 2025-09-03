@@ -219,7 +219,7 @@
     "@playwright/test": "^1.40.1",
     "@testing-library/react": "^12.1.5",
     "@types/chai": "^4.3.11",
-    "@types/react": "17.0.0",
+    "@types/react": "17.0.87",
     "@types/supertest": "^6.0.2",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
