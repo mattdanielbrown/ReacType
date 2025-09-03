@@ -170,7 +170,7 @@
     "deep-diff": "^1.0.2",
     "deep-object-diff": "^1.1.9",
     "dotenv": "^16.3.1",
-    "esbuild-wasm": "^0.14.54",
+    "esbuild-wasm": "^0.25.9",
     "eslint-plugin-react-hooks": "^4.6.0",
     "express": "^4.21.1",
     "express-session": "^1.17.3",
