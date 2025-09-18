@@ -226,7 +226,7 @@
     "@vitest/coverage-v8": "^1.6.0",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0",
     "apollo": "^2.11.1",
-    "axios": "^1.6.2",
+    "axios": "^1.12.0",
     "concurrently": "^7.6.0",
     "enzyme-to-json": "^3.6.2",
     "esbuild": "^0.14.54",
