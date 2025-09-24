@@ -222,7 +222,7 @@
     "@types/react": "17.0.0",
     "@types/supertest": "^6.0.2",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
-    "@typescript-eslint/parser": "^5.62.0",
+    "@typescript-eslint/parser": "^8.42.0",
     "@vitest/coverage-v8": "^1.6.0",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0",
     "apollo": "^2.11.1",
