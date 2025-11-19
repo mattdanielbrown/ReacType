@@ -230,7 +230,7 @@
     "concurrently": "^7.6.0",
     "enzyme-to-json": "^3.6.2",
     "esbuild": "^0.14.54",
-    "eslint": "^8.55.0",
+    "eslint": "^9.0.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-import-resolver-typescript": "^3.7.0",
