@@ -159,7 +159,7 @@
     "ace-builds": "^1.32.1",
     "app-root-path": "^3.1.0",
     "autoprefixer": "^10.4.16",
-    "aws-amplify": "^5.3.13",
+    "aws-amplify": "^6.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
     "buffer": "^6.0.3",
